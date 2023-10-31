@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: GREET-API
+  boot:
+    admin:
+      client:
+        api-path: http://localhost:1112/
+management:
+  endpoints:
+    web:
+      exposure:
+        exclude: '*'       
+server:
+  port: 9891
+    

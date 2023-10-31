@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="1SBMSServiceRegistry"/>
+<aop-project name="3GreetApi"/>
+<aop-project name="2AdminSever"/>
+</aop-reference-model>
